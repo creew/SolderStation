@@ -1,0 +1,15 @@
+"D:\Soft\IARARM\arm\bin\armproc.dll" 
+
+"D:\Soft\IARARM\arm\bin\armstlink2.dll" 
+
+"C:\Users\pc\Google Диск\my_docs\Iar Projects\SolderStation\EWARM\SolderStation\Exe\SolderStation.out" 
+
+--plugin "D:\Soft\IARARM\arm\bin\armbat.dll" 
+
+--device_macro "D:\Soft\IARARM\arm\config\debugger\ST\STM32F05xxx_06xxx.dmac" 
+
+--flash_loader "D:\Soft\IARARM\arm\config\flashloader\ST\FlashSTM32F03xx4.board" 
+
+
+
+
